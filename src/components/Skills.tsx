@@ -2,6 +2,7 @@ import { DiJavascript} from 'react-icons/di';
 import { FaReact, FaNodeJs, FaGitAlt } from 'react-icons/fa';
 import { PiOpenAiLogo } from 'react-icons/pi';
 import { SiTailwindcss, SiTypescript, SiExpress } from 'react-icons/si';
+import { SiTailwindcss, SiTypescript, SiExpress} from 'react-icons/si';
 
 const skills = [
     { icon: <FaReact />, label: 'React', level: 70 },

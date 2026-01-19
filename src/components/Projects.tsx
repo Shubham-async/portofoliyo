@@ -10,6 +10,14 @@ const projects = [
         live_link: 'https://e-commerce-web-page.onrender.com/',
         repo_link: 'https://github.com/Shubham-async/E-COMMERCE-Web-Page',
     },
+    {
+        title: 'Resume Builder with AI Feature',
+        description:
+      " Built an AI-powered resume builder that generates professional summaries and allows users to create, edit, and download multiple resumes. Implemented customizable templates and real-time content editing to tailor resumes for different job roles.Integrated AI-driven keyword optimization to improve ATS (Applicant Tracking System) compatibility.Designed a user-friendly interface with seamless resume version management and export options (PDF/Doc).",
+        image: 'Resume.png',
+        live_link: 'https://resumebuilder-1-9lh6.onrender.com',
+        repo_link: 'https://github.com/Shubham-async/ResumeBuilder',
+    },
    
 ];
 
